@@ -110,7 +110,6 @@ button {
     font-family: ultra, Georgia, serif;
     font-size: 1rem;
     text-transform: uppercase;
-    margin-top: 1.5rem;
     border: 1px solid black;
     padding: 0.75rem 1rem;
     border-radius: 0.5rem;
@@ -129,6 +128,14 @@ time {
     font-family: lato, Helvetica, sans-serif;
     font-style: italic;
     font-size: 0.825rem;
+}
+
+aside h3 {
+    font-size: 1rem;
+}
+
+aside p {
+    font-size: 0.875rem;
 }
 
 /* GENERAL SETUP AND DEFAULTS */
